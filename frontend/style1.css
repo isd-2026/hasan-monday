@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+h2 {
+    color: lime;
+}
+
+nav {
+    background-color: lime;
+    color: white;
+}
+
+nav a {
+    color: red;
+}
+a {
+    color: grey;
+}
+
+p a {
+    color: blue;
+}
